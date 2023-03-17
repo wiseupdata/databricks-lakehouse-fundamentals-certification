@@ -56,14 +56,20 @@ Benefits:
 
 - Data Reliability and Performance
 
-    bad data in = bad data out
+    > bad data in = bad data out
 
     Traditional Data Lakes:
-        * Lack of ACID transaction support
-        * Lack schema enforce 
-        * Lack of integration with a data Catalog.
-        * Too many small files.
+    >    - Lack of ACID transaction support
+    >    - Lack schema enforce 
+    >    - Lack of integration with a data Catalog.
+    >    - Too many small files.
 
+    <br>
+
+    The delta lake solves the problems from the traditional warehouse 
+    >    - Audit historical and time travel  
+
+    <br>
 
 - Unified Governance and Security
   Video
