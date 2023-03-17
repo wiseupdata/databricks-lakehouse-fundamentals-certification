@@ -18,15 +18,13 @@ A datalake house, also known as a lakehouse, is a modern data architecture that 
 
 <br>
 
-|      | | |
-| ---- | ---- |
-| Transaction support               | Schema enforcement and governance     | 
-| Data governance                   | BI Support                            | 
-| Decouple storage from compute     |Open storage formats                   | 
-| Support for diverse data types     |Support for diverse workloads                   | 
-| End-to-end streaming    |                  | 
-
-
+|   |                                |                                   |
+| - | ------------------------------ | --------------------------------- |
+|   | Transaction support            | Schema enforcement and governance |
+|   | Data governance                | BI Support                        |
+|   | Decouple storage from compute  | Open storage formats              |
+|   | Support for diverse data types | Support for diverse workloads     |
+|   | End-to-end streaming           |                                   |
 
 </details>
 
