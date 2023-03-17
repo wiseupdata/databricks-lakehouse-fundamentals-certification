@@ -72,6 +72,12 @@ Benefits:
     >   - Unify streaming and batch data process
     >   - The base are the delta tables
 
+    Photon
+    >   - It's a next generation query engine
+    >       - Compatible with spark
+    >       - 7x faster
+    >       - Don't need changes from the spark code
+
     <br>
 
 - Unified Governance and Security
