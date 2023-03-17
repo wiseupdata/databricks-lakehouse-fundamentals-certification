@@ -66,7 +66,7 @@ Benefits:
 
     <br>
 
-    The delta lake solves the problems from the traditional warehouse 
+    The delta lake solves the problems from the traditional warehouse and add the following benefits:
     >   - Audit historical and time travel
     >      - Easy rollback
     >   - Unify streaming and batch data process
@@ -81,7 +81,21 @@ Benefits:
     <br>
 
 - Unified Governance and Security
-  Video
+    Unit Catalog:
+    >   - Common governance model based on ANSI SQL
+    >       - Enforce fine grain access, column level
+    >       - For any cloud, data and AI
+    >   - User interface for data search and discover
+    >   - Data lineage, data and column level
+  
+    <br>
+    
+    Delta Sharing
+    >   - Share live in parquet
+    >   - Centralize administration and governance
+    >   - Privacy face
+    >   - Rest protocol
+
 - Instant Compute and Serverless
 - Introduction to Lakehouse Data Management Terminology
 
