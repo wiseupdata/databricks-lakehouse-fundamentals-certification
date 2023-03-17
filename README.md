@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><img src="assets/20230317_184614_image.png" width=40%></td>
-    <td>Databricks Lakehouse Fundamentals</td>
+    <td>Databricks Lakehouse Fundamentals - 2023-03-15</td>
   </tr>
  </table>
 
@@ -56,47 +56,63 @@ Benefits:
 
 - Data Reliability and Performance
 
-    > bad data in = bad data out
+  > bad data in = bad data out
+  >
 
-    Traditional Data Lakes:
-    >   - Lack of ACID transaction support
-    >   - Lack schema enforce 
-    >   - Lack of integration with a data Catalog.
-    >   - Too many small files.
+  Traditional Data Lakes:
 
-    <br>
+  > - Lack of ACID transaction support
+  > - Lack schema enforce
+  > - Lack of integration with a data Catalog.
+  > - Too many small files.
+  >
 
-    The delta lake solves the problems from the traditional warehouse and add the following benefits:
-    >   - Audit historical and time travel
-    >      - Easy rollback
-    >   - Unify streaming and batch data process
-    >   - The base are the delta tables
+  <br>
 
-    Photon
-    >   - It's a next generation query engine
-    >       - Compatible with spark
-    >       - 7x faster
-    >       - Don't need changes from the spark code
+  The delta lake solves the problems from the traditional warehouse and add the following benefits:
 
-    <br>
+  > - Audit historical and time travel
+  >   - Easy rollback
+  > - Unify streaming and batch data process
+  > - The base are the delta tables
+  >
 
+  Photon
+
+  > - It's a next generation query engine
+  >   - Compatible with spark
+  >   - 7x faster
+  >   - Don't need changes from the spark code
+  >
+
+  <br>
 - Unified Governance and Security
-    Unit Catalog:
-    >   - Common governance model based on ANSI SQL
-    >       - Enforce fine grain access, column level
-    >       - For any cloud, data and AI
-    >   - User interface for data search and discover
-    >   - Data lineage, data and column level
-  
-    <br>
-    
-    Delta Sharing
-    >   - Share live in parquet
-    >   - Centralize administration and governance
-    >   - Privacy face
-    >   - Rest protocol
+  Unit Catalog:
 
+  > - Common governance model based on ANSI SQL
+  >   - Enforce fine grain access, column level
+  >   - For any cloud, data and AI
+  > - User interface for data search and discover
+  > - Data lineage, data and column level
+  
+  <br>
+  
+  ![](assets/unity-catalog-search-gif.gif)
+
+  <br>
+
+  Delta Sharing
+
+  > - Share live in parquet
+  > - Centralize administration and governance
+  > - Privacy face
+  > - Rest protocol
+  >
 - Instant Compute and Serverless
+
+  > - Run in databricks
+  > - Only for SQL Server
+  >
 - Introduction to Lakehouse Data Management Terminology
 
 </details>
