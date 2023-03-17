@@ -28,6 +28,8 @@ Benefits:
 | Support for diverse data types | Support for diverse workloads     |
 | End-to-end streaming           |                                   |
 
+<br>
+
 </details>
 
 <details>
@@ -35,7 +37,15 @@ Benefits:
     What is the Databricks Lakehouse Platform
 </summary>
 
-...
+<br>
+
+- The first one in the cloud.
+- Delta lake reliability and performance.
+- Unify data warehouse and AI use cases.
+- Simple, Open, Multicloud.
+- Flexibility to share you data.
+
+<br>
 
 </details>
 
