@@ -17,6 +17,29 @@
 
 A datalake house, also known as a lakehouse, is a modern data architecture that combines the best features of data lakes and data warehouses. It allows organizations to store and analyze both structured and unstructured data at scale, while providing features traditionally associated with data warehouses such as ACID transactions, schema enforcement, and query optimization. In other words, a datalake house is a unified platform for data engineering, data science, and analytics that is designed to be more reliable, performant, and cost-effective than traditional data management systems.
 
+Benefits:
+
+<table>
+  <tr>
+    <td>
+    - Transaction support
+    - Schema enforcement and governance
+    - Data governance
+    - BI Support
+    - Decouple storage from compute
+    </td>
+    <td>
+    - Open storage formats
+    - Support for diverse data types
+    - Support for diverse workloads
+    - End-to-end streaming
+    </td>
+  </tr>
+ </table>
+
+
+
+
 <br>
 
 </details>
