@@ -55,7 +55,16 @@ Benefits:
 </summary>
 
 - Data Reliability and Performance
-  Video
+
+    bad data in = bad data out
+
+    Traditional Data Lakes:
+        * Lack of ACID transaction support
+        * Lack schema enforce 
+        * Lack of integration with a data Catalog.
+        * Too many small files.
+
+
 - Unified Governance and Security
   Video
 - Instant Compute and Serverless
