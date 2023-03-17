@@ -1,16 +1,10 @@
 <table>
   <tr>
-    <td></td>
-     <td></td>
-  </tr>
-  <tr>
     <td><img src="assets/20230317_184614_image.png" width=40%></td>
     <td>Databricks Lakehouse Fundamentals</td>
   </tr>
  </table>
 
-
----
 
 <details>
 <summary>
