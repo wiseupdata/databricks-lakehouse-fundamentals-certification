@@ -94,10 +94,11 @@ Benefits:
   >   - For any cloud, data and AI
   > - User interface for data search and discover
   > - Data lineage, data and column level
-  
+  >
+
   <br>
-  
-  ![](assets/unity-catalog-search-gif.gif)
+
+  > ![](assets/unity-catalog-search-gif.gif)
 
   <br>
 
@@ -114,6 +115,9 @@ Benefits:
   > - Only for SQL Server
   >
 - Introduction to Lakehouse Data Management Terminology
+
+
+  > ![](assets/20230317_205233_image.png)
 
 </details>
 
