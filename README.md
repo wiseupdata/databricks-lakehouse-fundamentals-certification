@@ -128,6 +128,7 @@ Benefits:
 </summary>
 
 - Supported Workload: Data warehousing
+  > ![](assets/20230317_210320_image.png)
 - Supported Workload: Data engineering
 - Supported Workload: Data streaming
 - Supported Workload: Data science and machine learning
